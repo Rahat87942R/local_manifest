@@ -2,9 +2,9 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/10or/G" name="RahulPalXDA/android_device_10or_G.git" remote="github" revision="lineage-18.1" />
- <project path="device/10or/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" />
- <project path="vendor/10or" name="RahulPalXDA/android_vendor_10or.git" remote="github" revision="master" />
- <project path="kernel/10or/G" name="10orDevs/android_kernel_10or_G-4.9.git" remote="github" revision="lineage-18.1" />
+ <project path="device/samsung/j7elte" name="Rahat87942R/android_device_samsung_j7elte.git" remote="Rahat87942R" revision="lineage-18.1" />
+ <project path="device/samsung/universal7580-common" name="Rahat87942R/android_device_samsung_universal7580-common.git" remote="Rahat87942R" revision="lineage-18.1" />
+ <project path="system/vendor" name="Rahat87942R/proprietary_vendor_samsung" remote="Rahat87942R" revision="lineage-18.1" />
+ <project path="kernel/samsung/universal7580" name="Rahat87942R/android_kernel_samsung_universal7580.git" remote="Rahat87942R" revision="lineage-18.1" />
  
 </manifest>
