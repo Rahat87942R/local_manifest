@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote name="Rahat87942R" fetch="https://github.com"/>
 
- <!-- Trees -->
- <project path="device/samsung/j7elte" name="Rahat87942R/android_device_samsung_j7elte.git" remote="Rahat87942R" revision="lineage-18.1" />
- <project path="device/samsung/universal7580-common" name="Rahat87942R/android_device_samsung_universal7580-common.git" remote="Rahat87942R" revision="lineage-18.1" />
- <project path="system/vendor" name="Rahat87942R/proprietary_vendor_samsung" remote="Rahat87942R" revision="lineage-18.1" />
- <project path="kernel/samsung/universal7580" name="Rahat87942R/android_kernel_samsung_universal7580.git" remote="Rahat87942R" revision="lineage-18.1" />
- 
+  <project name="Rahat87942R/android_device_samsung_j7elte" path="device/samsung/j7elte" remote="Rahat87942R" revision="lineage-18.1" />
+  <project name="Rahat87942R/android_device_samsung_universal7580-common" path="device/samsung/universal7580-common" remote="Rahat87942R" revision="lineage-18.1" />
+  <project name="Rahat87942R/android_hardware_samsung" path="hardware/samsung" remote="Rahat87942R" revision="lineage-18.1" />
+  <project name="Rahat87942R/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="Rahat87942R" revision="lineage-18.1" />
+  <project name="Rahat87942R/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="Rahat87942R" revision="lineage-18.1" />
+  <project name="Rahat87942R/android_hardware_samsung_slsi_exynos7580" path="hardware/samsung_slsi/exynos7580" remote="Rahat87942R" revision="lineage-18.1" />
+  <project name="Rahat87942R/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="Rahat87942R" revision="lineage-18.1" />
+  <project name="Rahat87942R/android_kernel_samsung_universal7580" path="kernel/samsung/universal7580" remote="Rahat87942R" revision="lineage-18.1" />
+  <project name="Rahat87942R/proprietary_vendor_samsung" path="vendor/samsung" remote="Rahat87942R" revision="lineage-18.1" />
 </manifest>
